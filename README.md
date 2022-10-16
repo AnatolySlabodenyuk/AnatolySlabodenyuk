@@ -1,1 +1,1 @@
-![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/logo.jpeg)
+![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/Header.png)
