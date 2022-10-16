@@ -11,6 +11,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
+### Портфолио
+- [Баг-репорты](https://github.com/AnatolySlabodenyuk/Bug-reports)
+
 ### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
