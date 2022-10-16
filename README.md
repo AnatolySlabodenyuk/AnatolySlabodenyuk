@@ -1,9 +1,6 @@
 ![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/Header.png)
 ## I'm a QA Engineer
 
-
-
-
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
@@ -13,3 +10,8 @@
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+
+### Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:slabodenyukanatoly@gmail.com?subject=Предложение%20по%20работе)
