@@ -19,7 +19,7 @@
 - [SQL](https://github.com/AnatolySlabodenyuk/SQL_queries)
 - [Тестовые задания](https://github.com/AnatolySlabodenyuk/Test_tasks) 
 
-### Контакты
+### Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:slabodenyukanatoly@gmail.com?subject=Предложение%20по%20работе)
