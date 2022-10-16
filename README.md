@@ -1,4 +1,4 @@
-![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/Header%20(1).png)
+![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/logo.png)
 ## QA Engineer
 
 ### Владение инструментами
