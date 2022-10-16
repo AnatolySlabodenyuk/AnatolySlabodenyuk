@@ -1,6 +1,7 @@
 ![Header](https://github.com/AnatolySlabodenyuk/AnatolySlabodenyuk/blob/master/assets/logo.png)
 ## QA Engineer
-
+## Резюме
+[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1hy9mcycfJA-p1v0frXkVSqXiYDXqeeJu/view?usp=sharing)
 ### Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
