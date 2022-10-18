@@ -2,7 +2,7 @@
 ## QA Engineer
 
 ### Резюме
-[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1RToVbsRURTLItmPFHxQzdSBAkCHSV3WV/view?usp=sharing)
+[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1Z9V75YDND40bbleqrFSRy1Qf7A7xPODa/view?usp=sharing)
 
 ### Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
