@@ -11,6 +11,7 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 
