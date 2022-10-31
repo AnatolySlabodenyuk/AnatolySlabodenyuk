@@ -20,7 +20,8 @@
 - [Тест-кейсы](https://github.com/AnatolySlabodenyuk/Test-cases)
 - [Чек-листы](https://github.com/AnatolySlabodenyuk/Checklists)
 - [SQL](https://github.com/AnatolySlabodenyuk/SQL_queries)
-- [Тестовые задания](https://github.com/AnatolySlabodenyuk/Test_tasks) 
+- [Тестовые задания](https://github.com/AnatolySlabodenyuk/Test_tasks)
+- [Коллекции Postman](https://github.com/AnatolySlabodenyuk/Postman)
 
 ### Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
