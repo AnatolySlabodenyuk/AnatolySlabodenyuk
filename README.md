@@ -4,6 +4,9 @@
 ### Резюме
 [Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1XDM0lNeBqlYN_sGW0RCDWTQrFmedAU89/view?usp=sharing)
 
+### Лицензии и сертификаты
+[Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=sharing)
+
 ### Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
