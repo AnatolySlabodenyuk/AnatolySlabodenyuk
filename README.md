@@ -4,7 +4,7 @@
 ### Резюме
 [Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1XDM0lNeBqlYN_sGW0RCDWTQrFmedAU89/view?usp=sharing)
 
-### Лицензии и сертификаты
+### Дипломы и сертификаты
 [Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=sharing)
 
 ### Владение инструментами
