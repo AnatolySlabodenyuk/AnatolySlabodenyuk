@@ -2,7 +2,7 @@
 ## QA Engineer
 
 ### Резюме
-[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1CCez2i-HQqewPstaQiZr2enLMYsagrBI/view?usp=sharing)
+[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1HDFkElQj4_lmMsuVTt7v0-f-8iVKlOIW/view?usp=sharing)
 
 ### Дипломы и сертификаты
 [Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=sharing)
