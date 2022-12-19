@@ -20,4 +20,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Git&logoColor=8cc4d7)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
+![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=json&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&javascript=html&logoColor=F7DF1E)
