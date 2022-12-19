@@ -21,3 +21,4 @@
 ![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=github&logoColor=F05032)
+![XML](https://img.shields.io/badge/XML-090909?style=for-the-badge&logo=github&logoColor=F05032)
