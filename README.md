@@ -11,7 +11,7 @@
   </table>
   </br>
 
-  ### Владение инструментами
+### Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
@@ -24,5 +24,21 @@
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=json&logoColor=004027)
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-## Тестирование мобильного приложения на Android
-<a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">Мобильное приложение Яндекс Практикум</a></br></br>
+### Портфолио
+- [Баг-репорты](https://github.com/AnatolySlabodenyuk/Bug-reports)
+- [Тест-кейсы](https://github.com/AnatolySlabodenyuk/Test-cases)
+- [Чек-листы](https://github.com/AnatolySlabodenyuk/Checklists)
+- [SQL](https://github.com/AnatolySlabodenyuk/SQL_queries)
+- [Тестовые задания](https://github.com/AnatolySlabodenyuk/Test_tasks)
+- [Коллекции Postman](https://github.com/AnatolySlabodenyuk/Postman)
+
+### Резюме
+[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1HDFkElQj4_lmMsuVTt7v0-f-8iVKlOIW/view?usp=sharing)
+
+### Дипломы и сертификаты
+[Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=sharing)
+
+### Свяжитесь со мной
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:slabodenyukanatoly@gmail.com?subject=Предложение%20по%20работе)
