@@ -1,9 +1,14 @@
+## Всем привет! :raised_hand:
+Я инженер по тестированию.
+
+Мой общий стаж нахождения в сфере тестирования - около года
+
 ## Всем привет! :raised_hand
 Я инженер по тестированию.
 
 Мой общий стаж нахождения в сфере тестирования - около года </br>
 
-## Образование и пройденные курсы
+## :mortar_board: Образование и пройденные курсы 
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="bottom"><img src="images/leti.png"></td><td valign="middle">2015-2019</br>Санкт-Петербургский государственный электротехнический университет "ЛЭТИ"</br>Факультет радиотехники</br>Инженер-радиотехник</td></tr>
@@ -13,7 +18,7 @@
   </table>
   </br>
 
-## Владение инструментами
+## :hammer: Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
@@ -31,26 +36,26 @@
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-090909?style=for-the-badge&logo=IntelliJIDEA&logoColor=AA00FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=D24939)
 
-## Портфолио
-### Ручное тестирование
+## :file_folder: Портфолио
+### :muscle: Ручное тестирование
 - [Тестирование мобильных приложений](https://drive.google.com/drive/folders/1H8Om6aSdTo5T5f5hAfJUg4XK1omQZ_1J?usp=share_link)
 - [Тестирование API](https://drive.google.com/drive/folders/1QOgL7fXqKegV5_eRKrypP90jUMyDYkfE?usp=sharing)
 - [Тестирование веб-приложений](https://drive.google.com/drive/folders/1fOVLNa5aMbenrqD1koJovRxVtcX4oOY4?usp=sharing)
 - [Тестовые задания](https://drive.google.com/drive/folders/1am9HqbmAT0fwynOB2E7n4M-DkEquMAoN?usp=sharing)
 - [Коллекции Postman](https://github.com/AnatolySlabodenyuk/Postman)
 
-### Автоматизированное тестирование
+### :electric_plug: Автоматизированное тестирование
 - [Автоматизация тестирования страницы регистрации сайта Сириус.Курсы](https://github.com/AnatolySlabodenyuk/SiriusTests)
 - [Автоматизация тестирования сайта Demoqa](https://github.com/AnatolySlabodenyuk/QA_GURU_PO_Update)
 
 
-## Резюме
+## :scroll: Резюме
 [Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1HDFkElQj4_lmMsuVTt7v0-f-8iVKlOIW/view?usp=sharing)
 
-## Дипломы и сертификаты
+## :paperclip: Дипломы и сертификаты
 [Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=share_link)
 
-## Свяжитесь со мной
+## :telephone_receiver: Свяжитесь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:slabodenyukanatoly@gmail.com?subject=Предложение%20по%20работе)
