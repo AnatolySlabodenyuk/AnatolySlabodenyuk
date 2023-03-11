@@ -45,7 +45,7 @@
 
 
 ## :scroll: Резюме
-[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/1HDFkElQj4_lmMsuVTt7v0-f-8iVKlOIW/view?usp=sharing)
+[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/168PQ0jqsxpHJeZnBfJOUvbCtu2OTHN96/view?usp=sharing)
 
 ## :paperclip: Дипломы и сертификаты
 [Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=share_link)
