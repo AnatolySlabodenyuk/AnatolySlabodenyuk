@@ -19,7 +19,7 @@
 
 ## :hammer: Владение инструментами
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=f4f4f4)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
