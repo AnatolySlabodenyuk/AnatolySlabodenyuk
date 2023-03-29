@@ -34,6 +34,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=Gradle&logoColor=02303A)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-090909?style=for-the-badge&logo=IntelliJIDEA&logoColor=AA00FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=D24939)
+![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![JMeter](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=D22128)
 
 ## :file_folder: Портфолио
 ### :muscle: Ручное тестирование
