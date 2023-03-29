@@ -49,7 +49,7 @@
 - [Автоматизация тестирования страницы регистрации сайта Сириус.Курсы](https://github.com/AnatolySlabodenyuk/SiriusTests)
 - [Автоматизация тестирования сайта Demoqa](https://github.com/AnatolySlabodenyuk/QA_GURU_PO_Update)
 - [Автоматизация тестирования сайта VTB](https://github.com/AnatolySlabodenyuk/VTB_tests)
-- [Автоматизация тестирования открытого API https://reqres.in при помощи библиотеки Rest-assured](https://github.com/AnatolySlabodenyuk/API_Tests)
+- [Автоматизация тестирования открытого API при помощи библиотеки Rest-assured](https://github.com/AnatolySlabodenyuk/API_Tests)
 
 
 ## :scroll: Резюме
