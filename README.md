@@ -1,66 +1,74 @@
-## Всем привет! :raised_hand:
-Я инженер по тестированию с общим стажем в профессии более года. 
+# Привет, меня зовут Анатолий!
 
-Выпускник курсов "Инженер по тестированию" от Яндекс Практикума и "Автоматизация тестирования на Java" от школы QA.GURU.
+---
 
-После прохождения курсов был приглашен к участию над временным проектом в компанию Яндекс Практикум и в проект для начинающих тестировщиков "Хомячки".
+### 👨‍💻 Обо мне:
 
-На данный момент работаю на должности Инженера по ручному тестированию в компании [Skyros](https://www.skyros.ru/).
+Я инженер по нагрузочному тестированию в группе компаний ЦРТ
 
-## :mortar_board: Образование и пройденные курсы 
-<table width="100%" border='0'>
-   <tr> 
-    <td width="30%" valign="bottom"><img src="images/leti.png"></td><td valign="middle">2015-2019</br>Санкт-Петербургский государственный электротехнический университет "ЛЭТИ"</br>Факультет радиотехники</br>Инженер-радиотехник</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="images/practicum.jpg"></td><td valign="middle">2021</br><a target="_blank" href="https://practicum.yandex.ru">Яндекс Практикум</a></br>Курс "Инженер по тестированию"</br>Выпускник курса</td>
-    <tr><td width="30%" valign="bottom"><img src="images/qaGuru.png"></td><td valign="middle">2022</br><a target="_blank" href="https://qa.guru">qa.guru</a></br>Автоматизация тестирования на Java"</br>Ученик курса</td></tr>
-   </tr>
-  </table>
-  </br>
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@anatolyslabodenyuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anatolyslabodenyuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slabodenyukanatoly@gmail.com)
 
-## :hammer: Владение инструментами
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
-![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-090909?style=for-the-badge&logo=torproject&logoColor=7E4798)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
-![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=json&logoColor=004027)
-![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=43B02A)
-![JUnit5](https://img.shields.io/badge/JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
-![Gradle](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=Gradle&logoColor=02303A)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-090909?style=for-the-badge&logo=IntelliJIDEA&logoColor=AA00FF)
-![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins&logoColor=D24939)
-![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-090909?style=for-the-badge&logo=ApacheJMeter&logoColor=D22128)
+---
+### 🤝 Социальные сети:
 
-## :file_folder: Портфолио
-### :muscle: Ручное тестирование
-- [Тестирование мобильных приложений](https://drive.google.com/drive/folders/1H8Om6aSdTo5T5f5hAfJUg4XK1omQZ_1J?usp=share_link)
-- [Тестирование API](https://drive.google.com/drive/folders/1QOgL7fXqKegV5_eRKrypP90jUMyDYkfE?usp=sharing)
-- [Тестирование веб-приложений](https://drive.google.com/drive/folders/1fOVLNa5aMbenrqD1koJovRxVtcX4oOY4?usp=sharing)
-- [Тестовые задания](https://drive.google.com/drive/folders/1am9HqbmAT0fwynOB2E7n4M-DkEquMAoN?usp=sharing)
-- [Коллекции Postman](https://github.com/AnatolySlabodenyuk/Postman)
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/anatolyslabodenyuk/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Slabodenyuk_Anatoly" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 
-### :electric_plug: Автоматизированное тестирование
-- [Автоматизация тестирования страницы регистрации сайта Сириус.Курсы](https://github.com/AnatolySlabodenyuk/SiriusTests)
-- [Автоматизация тестирования сайта Demoqa](https://github.com/AnatolySlabodenyuk/QA_GURU_PO_Update)
-- [Автоматизация тестирования сайта VTB](https://github.com/AnatolySlabodenyuk/VTB_tests)
-- [Автоматизация тестирования открытого API при помощи библиотеки Rest-assured](https://github.com/AnatolySlabodenyuk/API_Tests)
+---
 
+### 📁 Тестовая документация:
 
-## :scroll: Резюме
-[Ознакомьтесь с моим резюме](https://drive.google.com/file/d/13_u_USGnPs2H_khqUl3CvJByXxbtYnOh/view?usp=share_link)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
+</div>
 
-## :paperclip: Дипломы и сертификаты
-[Ознакомьтесь с моими дипломами](https://drive.google.com/drive/folders/1tolsLAciOOLgaTcQG_PcSQKflvYhuol_?usp=share_link)
+---
 
-## :telephone_receiver: Свяжитесь со мной
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=8cc4d7)](https://t.me/Slabodenyuk_Anatoly)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anatolyslabodenyuk)
-[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:slabodenyukanatoly@gmail.com?subject=Предложение%20по%20работе)
+### 🛠 Тестирование веб-приложений:
+
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 💾 Работа с данными:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### ✏️ Работа с кодом:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="scala" alt="scala" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 📈 Инструменты для нагрузочного тестирования:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+  <img src="https://home.apache.org/~fschumacher/jmeter6.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/gatling.svg" title="gatling" alt="gatling" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp
+  
+          
+  
+          
+
