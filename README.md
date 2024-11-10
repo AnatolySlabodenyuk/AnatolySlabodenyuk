@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я инженер по нагрузочному тестированию в группе компаний "ЦРТ"
+Я инженер по нагрузочному тестированию
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@anatolyslabodenyuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anatolyslabodenyuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slabodenyukanatoly@gmail.com)
 
