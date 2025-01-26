@@ -8,7 +8,9 @@
 - 📫 Как связаться со мной:
 [![LinkedIn Badge](https://img.shields.io/badge/-@anatolyslabodenyuk-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anatolyslabodenyuk/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:slabodenyukanatoly@gmail.com) 
-[![Telegram Badge](https://img.shields.io/badge/-Slabodenyuk_Anatoly-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Slabodenyuk_Anatoly/) 
+[![Telegram Badge](https://img.shields.io/badge/-Slabodenyuk_Anatoly-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Slabodenyuk_Anatoly/)
+- 🤖 Мой [Telegram бот](https://github.com/AnatolySlabodenyuk/animal_voice_bot) для поиска звуков 
+- 📣 Мой [Telegram канал](https://t.me/lets_load) по тестированию производительности
 
 ---
 
